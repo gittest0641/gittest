@@ -1,1 +1,2 @@
-test
+Certificate : 데이터분석준전문가, 정보처리산업기사, 빅데이터분석기사
+Skills : python(3yrs)
