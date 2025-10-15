@@ -1,1 +1,3 @@
-test
+Education : Bachelor of Science in Computer Engineering - Chungbuk National University
+Name : Incheol Shin
+Age : 28
